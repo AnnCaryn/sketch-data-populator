@@ -1,16 +1,16 @@
-![Sketch Data Visualization Tool]
 
-## Why Data Populator
+
+## Real Data Visualization
 
 We believe designers should work with _meaningful_ and _realistic_ data as early as possible in the design process for the following reasons:
 
 1. **Content informs design decisions** (and helps you convey your purpose)
-2. **Data are relentless** (so UI components must be designed for robustness)
-3. **It's fun** (seeing your design evolve with meaningful data is motivating and rewarding)
+2. **Data sets are dramatically different** (so testing multiple datasets with UI components helps everyone think critically about how and what they design)
+3. **It's fun to imagine and use the data to make a difference** (Use your design to evolve how people think about data - can you use the data to tell a better story?  I encourage you to fork this plugin and find even better ways to build.)
 
 
 ## Testing & Credits
-This is a work in progress tool - built and modified from the original work of [Lukas Ondrej](https://github.com/lukasondrej) and [precious design studio](http://precious-forever.com/)
+This is a work in progress tool that was modified for data visualization from the original work of [Lukas Ondrej](https://github.com/lukasondrej) and [precious design studio](http://precious-forever.com/)
 
 ## Installation
 1. Download the ZIP file (or clone repository)
