@@ -1,4 +1,4 @@
-![Sketch Data Populator](sketch-data-populator.png)
+![Sketch Data Visualization Tool]
 
 ## Why Data Populator
 
@@ -8,13 +8,9 @@ We believe designers should work with _meaningful_ and _realistic_ data as early
 2. **Data are relentless** (so UI components must be designed for robustness)
 3. **It's fun** (seeing your design evolve with meaningful data is motivating and rewarding)
 
-_Sketch Data Populator_ not only makes you more productive (probably around [60x faster](https://vimeo.com/131896485)), it changes the way you design user interfaces (at least that's what happened to us).
 
 ## Testing & Credits
-
-Please report bugs, observations, ideas & feature requests as [issues](https://github.com/preciousforever/sketch-data-populator/issues) or [get in touch](mailto:feedback@datapopulator.com).
-
-We conceived _Sketch Data Populator_ to improve our design process for working with data at [precious design studio](http://precious-forever.com/) and developed the plugin in collaboration with [Lukas Ondrej](https://github.com/lukasondrej). Please get in touch if you have questions or comments via [@preciousforever](https://twitter.com/preciousforever) or [our website](http://precious-forever.com/contact).
+This is a work in progress tool - built and modified from the original work of [Lukas Ondrej](https://github.com/lukasondrej) and [precious design studio](http://precious-forever.com/)
 
 ## Installation
 1. Download the ZIP file (or clone repository)
